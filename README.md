@@ -25,7 +25,7 @@ Before you begin, ensure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone https://
+git clone https://github.com/abdulrahmankhalled/resume-builder.git
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
